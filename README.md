@@ -1,4 +1,4 @@
-# [Build your own Copilots with Microsoft Copilot Studio]
+# Build your own Copilots with Microsoft Copilot Studio
 
 This repo contains the train the trainer material for the Build your own Copilots with Microsoft Copilot Studio workshop for AI Tour.
 
