@@ -16,9 +16,9 @@ Prior to delivering the workshop please:
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | Workshop Slide Deck      |  [Presentation](https://aka.ms/AArxhkl) | Presentation slides for this workshop with presenter notes and embedded demo video |
-| Train the Trainer Deck     |  [Deck](https://aka.ms/AArx61l) | The train the trainer slides |
-| Train the Trainer Video           | [Video](https://aka.ms/AArxle5) | Recorded delivery of the train the trainer slides | 
-| Trainer Guide             |  [Trainer Guide](https://aka.ms/AArxdq6) | Trainer guide with demo setup and talk track | 
+| Session Delivery Deck     |  [Deck](https://aka.ms/AArx61l) | The session delivery slides |
+| Session Delivery Video           | [Video](https://aka.ms/AArxle5) | Recorded video explaining how to deliver this session | 
+| Session Delivery Guide             |  [Guide](https://aka.ms/AArxdq6) | Guide explaining how to deliver this session with demo setup and talk track.  | 
 | Lab Instructions             |  [Lab instructions](https://aka.ms/AArxdq4) | Step by step instructions for the labs for proctors and presenters to run through | 
 
 ## Get Started
@@ -50,6 +50,6 @@ You will need access to your own M365 tenant to do the demos. You will also need
 
 > **What's Here?** Pre-delivery preparation, stage ready videos
 
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There is 1 demo showing how to create a copilot from a template.  [You can find the demo script in the trainer guide](https://aka.ms/AArxdq6).
+Detailed explanations of each demonstration associated with this presentation can be found in this section. There is 1 demo showing how to create a copilot from a template.  [You can find the demo script in the session delivery guide](https://aka.ms/AArxdq6).
 
 

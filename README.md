@@ -1,6 +1,6 @@
 # Build your own Copilots with Microsoft Copilot Studio
 
-This repo contains the train the trainer material for the Build your own Copilots with Microsoft Copilot Studio workshop for AI Tour.
+This repo contains the session delivery material for the Build your own Copilots with Microsoft Copilot Studio workshop for AI Tour.
 
 ![Workshop Title](/src/AITour_Workshop_Screenshot.png)
 
@@ -19,7 +19,7 @@ This is a 75-minute workshop focused on building and extending a custom copilot 
 - Custom Connectors 
 
 ## Additional Resources
-You can find additional resources, including the slides for the presentation and train the trainer material [here](/train-the-trainer/README.md).
+You can find additional resources, including the slides for the presentation and session delivery material [here](/session-delivery-resources/README.md).
 
 ## Content Owners
 
