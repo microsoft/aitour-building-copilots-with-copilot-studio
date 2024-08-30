@@ -1,9 +1,7 @@
 ## How To Use
 
-Welcome,
-
-We're glad you are here and look forward to your delivery of the Build your own Copilots with ​
-Microsoft Copilot Studio workshop. This guide focuses on what you need to present for a successful delivery of the workshop.  
+The following resources are intended for a presenter to learn and deliver the Build your own Copilots with ​
+Microsoft Copilot Studio workshop
 
 Prior to delivering the workshop please:
 
