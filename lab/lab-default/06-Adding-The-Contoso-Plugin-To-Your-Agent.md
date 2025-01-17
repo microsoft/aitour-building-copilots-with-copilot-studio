@@ -44,7 +44,7 @@
 
 1. On the Inputs and Outputs screen, click **Next** again.
 
-![AgentOrderDetailsNext.png](./images/instructions273634/AgentOrderDetailsNext.png)
+    ![AgentOrderDetailsNext.png](./images/instructions273634/AgentOrderDetailsNext.png)
 
 1. Click **Finish** to complete adding the Get Order Details plugin action.
 
@@ -60,7 +60,7 @@
 
 1. You may have to scroll down in the list of connectors to find your results again. Click **Update Delivery Address** to begin adding this action to your agent
 
-![AgentAddUpdate.png](./images/instructions273634/AgentAddUpdate.png)
+    ![AgentAddUpdate.png](./images/instructions273634/AgentAddUpdate.png)
 
 1. Once the connector has loaded, in the End user authentication dropdown, select **Copilot author authentication** then click **Next**
 
@@ -68,15 +68,15 @@
 
 1. On the Inputs and Outputs screen, click **Next** again.
 
-   ![UpdateNextInput.png](./images/instructions273634/UpdateNextInput.png)
+    ![UpdateNextInput.png](./images/instructions273634/UpdateNextInput.png)
 
 1. Click **Finish** to complete adding the plugin to the agent
 
-![UpdateFinish.png](./images/instructions273634/UpdateFinish.png)
+    ![UpdateFinish.png](./images/instructions273634/UpdateFinish.png)
 
 1. Confirm that you see both the **Get items** and **Update delivery** actions in the list of items on the Actions screen
 
-![ConfirmActions.png](./images/instructions273634/ConfirmActions.png)
+    ![ConfirmActions.png](./images/instructions273634/ConfirmActions.png)
 
 1. Return to Visual Studio and click the **Run** button next to the HTTPS flag to run your application in HTTPS
 
@@ -112,18 +112,19 @@
 
     You'll see the order number is passed to the actions and the results are returned to your agent
 
-        ![AgentGetMapFilled.png](./images/instructions273634/AgentGetMapFilled.png)
+    ![AgentGetMapFilled.png](./images/instructions273634/AgentGetMapFilled.png)
 
 1. Click the reset button to start a new test session
 
     ![step79.jpg](./images/instructions273634/step79.jpg)
+
 1. Enter +++Update my delivery address for order 123456 to 1 Microsoft Way, Redmond 98052 WA+++ and click send
 
     ![update-delivery-address.png](./images/instructions273634/update-delivery-address.png)
 
 1. This time Copilot Studio will find the right action and it will be smart enough to fill all the address details in the right inputs as shown below
 
-![AgentFinalTest.png](./images/instructions273634/AgentFinalTest.png)
+    ![AgentFinalTest.png](./images/instructions273634/AgentFinalTest.png)
 
 Congratulations! That's it! You have successfully created a new agent and extended that using a custom connector! 
 

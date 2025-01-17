@@ -29,11 +29,11 @@ To start you're going to build your very first agent powered by Generative answe
 
 1. In the left nav click **+ Create** button to start creating a new agent
 
-    ![create.png](./images/instructions273634/create.png)
+    ![create.png](./images/instructions279065/create.png)
 
 1. Click **New agent**
 
-    ![create-new-agent.png](./images/instructions273634/create-new-agent.png)
+    ![create-new-agent.png](./images/instructions279065/create-new-agent.png)
 
 1. While we could use natural language to setup the agent for this exercise, we will skip directly to the configuration Click the Skip to configure button
 
@@ -41,7 +41,7 @@ To start you're going to build your very first agent powered by Generative answe
 
 1. Give your agent a unique name by including your first and last name, for example "Jane Does Agent" and then click the **+ Add knowledge**
 
-        ![AgentName.png](./images/instructions273634/AgentName.png)
+    ![AgentName.png](./images/instructions273634/step10.jpg)
 
 1. In the Add available knowledge sources dialog click the **Public websites** button
 
