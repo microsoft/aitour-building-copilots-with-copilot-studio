@@ -1,6 +1,6 @@
 ## How To Use
 
-The following resources are intended for a presenter to learn and deliver the Build your own Copilots with ​
+The following resources are intended for a presenter to learn and deliver the Build your own Agents with ​
 Microsoft Copilot Studio workshop
 
 Prior to delivering the workshop please:
@@ -17,7 +17,7 @@ Prior to delivering the workshop please:
 | Session Delivery Deck     |  [Deck](https://aka.ms/AArx61l) | The session delivery slides |
 | Session Delivery Video           | [Video](https://aka.ms/AArxle5) | Recorded video explaining how to deliver this session | 
 | Session Delivery Guide             |  [Guide](https://aka.ms/AArxdq6) | Guide explaining how to deliver this session with demo setup and talk track.  | 
-| Lab Instructions             |  [Lab instructions](https://aka.ms/AArxdq4) | Step by step instructions for the labs for proctors and presenters to run through | 
+| Lab Instructions             |  [Lab instructions](/instructions/) | Step by step instructions for the labs for proctors and presenters to run through | 
 
 ## Get Started
 
@@ -28,9 +28,9 @@ The workshop is divided into multiple sections including 16 slides, 1 demo and 2
 | Time        | Description 
 --------------|-------------
 0:00 - 10:00   | Intro and overview of Copilot Studio (slides)
-10:00 - 15:00  | Demo: Create a copilot from a template
-15:00 - 40:00 | Hands on Lab: Building a copilot to chat over data and publish to Teams 
-40:00 - 70:00 | Hands on Lab: Extend a copilot via a plugin with a custom connector built in Visual Studio 
+10:00 - 15:00  | Demo: Create an agent from a template
+15:00 - 40:00 | Hands on Lab: Building an agent to chat over data and publish to Teams 
+40:00 - 70:00 | Hands on Lab: Extend an agent via a plugin with a custom connector built in Visual Studio 
 70:00 - 75:00 | Wrap up and Q&A
 
 ## Slides
