@@ -11,7 +11,7 @@ The green text with the +++icon+++ can be clicked on and will be typed automatic
 
 ===
 
-!INSTRUCTIONS [1 - Build Your First Agent](https://raw.githubusercontent.com/microsoft/aitour-get-started-with-fabric/main/lab/tutorial-1-resources.md)
+!INSTRUCTIONS [1 - Build Your First Agent](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-default/01-Build-Your-First-Agent.md)
 
 ===
 
