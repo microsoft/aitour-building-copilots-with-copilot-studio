@@ -30,44 +30,44 @@ To start you're going to build your very first agent powered by Generative answe
 
 <!-- 3. If you see a message about needing to setup additional security like is shown below, select **Ask later**
 
-    !IMAGE [pic1_official.png](/instructions/lab-default/images/instructions273634/pic1_official.png) -->
+    !IMAGE [pic1_official.png](./images/instructions273634/pic1_official.png) -->
 
 3. If you see a welcome screen like is shown below, select the country/region that you’re in from the dropdown and select Get Started
 <br>
-    !IMAGE [pic2.png](/instructions/lab-default/images/instructions273634/pic2.png)
+    !IMAGE [pic2.png](./images/instructions273634/pic2.png)
 4. If you see a welcome message as shown in the screenshot below, select Skip.
 <br>
-    !IMAGE [step6.png](/instructions/lab-default/images/instructions273634/step6.png)
+    !IMAGE [step6.png](./images/instructions273634/step6.png)
 6. In the left nav click **+ Create** button to start creating a new agent
 <br>
-    !IMAGE[create.png](/instructions/lab-default/images/instructions273634/create.png)
+    !IMAGE[create.png](./images/instructions273634/create.png)
 7. Click **New agent**
 <br>
-    !IMAGE[create-new-agent.png](/instructions/lab-default/images/instructions273634/create-new-agent.png)
+    !IMAGE[create-new-agent.png](./images/instructions273634/create-new-agent.png)
 8. While we could use natural language to setup the agent for this exercise, we will skip directly to the configuration Click the Skip to configure button
 <br>
-    !IMAGE [step9.jpg](/instructions/lab-default/images/instructions273634/step9.jpg)
+    !IMAGE [step9.jpg](./images/instructions273634/step9.jpg)
 9. Give your agent a unique name by including your first and last name, for example "Jane Does Agent" and then click the **+ Add knowledge**
 <br>
-        !IMAGE[AgentName.png](/instructions/lab-default/images/instructions273634/AgentName.png)
+        !IMAGE[AgentName.png](./images/instructions273634/AgentName.png)
 
 10. In the Add available knowledge sources dialog click the **Public websites** button
 <br>
-    !IMAGE [step11.jpg](/instructions/lab-default/images/instructions273634/step11.jpg)
+    !IMAGE [step11.jpg](./images/instructions273634/step11.jpg)
 11. In the Add public websites dialog enter +++www.microsoft.com+++ then click the **Add** button
 <br>
 12. With the new knowledge source added click the **Add** button in the bottom right of the dialog to include this in your new agent
 <br>
-        !IMAGE[AgentCreate.png](/instructions/lab-default/images/instructions273634/AgentCreate.png)
+        !IMAGE[AgentCreate.png](./images/instructions273634/AgentCreate.png)
 
 13. With the dialog closed confirm the name and the knowledge source of your new agent are correct then in the top right click the **Create** button
 <br>
-    !IMAGE [step14.png](/instructions/lab-default/images/instructions273634/step14.png)
+    !IMAGE [step14.png](./images/instructions273634/step14.png)
 14. In the agent test window enter +++What is Microsoft Copilot Studio?+++ and press enter
 
     > [!note] If you don't see the test your agent pane you can open this by clicking on Test button in the top right corner of the screen to open the test pane
 
-    !IMAGE[AgentTest.png](/instructions/lab-default/images/instructions273634/AgentTest.png)
+    !IMAGE[AgentTest.png](./images/instructions273634/AgentTest.png)
 
 Congratulations! you just built your first agent powered by generative answers.
 
@@ -80,36 +80,36 @@ Now that you have confirmed your agent is working as expected let’s publish th
 
 1. Click the **Publish** button in the top right-hand corner
 <br>
-    !IMAGE[AgentPublish.png](/instructions/lab-default/images/instructions273634/AgentPublish.png)
+    !IMAGE[AgentPublish.png](./images/instructions273634/AgentPublish.png)
 
 1. Click the **Publish** button to publish your agent
 <br>
-    !IMAGE[publish-agent.png](/instructions/lab-default/images/instructions273634/publish-agent.png)
+    !IMAGE[publish-agent.png](./images/instructions273634/publish-agent.png)
 <br>
     The following dialog will be displayed you can close this and your agent will finish publishing in the background
 <br>
-    !IMAGE[publishing-agent.png](/instructions/lab-default/images/instructions273634/publishing-agent.png)
+    !IMAGE[publishing-agent.png](./images/instructions273634/publishing-agent.png)
 1. Now that it’s published, we need to make this available to use within Microsoft Teams. Select the **Channels** tab in the top menu
 <br>
-   !IMAGE[AgentChannels.png](/instructions/lab-default/images/instructions273634/AgentChannels.png)
+   !IMAGE[AgentChannels.png](./images/instructions273634/AgentChannels.png)
 1. Under the list of channels, select **Microsoft Teams**
-!IMAGE[AgentChannelsTeams.png](/instructions/lab-default/images/instructions273634/AgentChannelsTeams.png)
+!IMAGE[AgentChannelsTeams.png](./images/instructions273634/AgentChannelsTeams.png)
 <br>
 1. In the panel that opens on the right-hand side, select **Turn on Teams**
 <br>
-    !IMAGE [step20.png](/instructions/lab-default/images/instructions273634/step20.png)
+    !IMAGE [step20.png](./images/instructions273634/step20.png)
 1. After Teams is turned on, you’ll get a message letting you know the channel was added. Select **Open agent** to add your new agent to Teams
 <br>
-   !IMAGE[AgentOpen.png](/instructions/lab-default/images/instructions273634/AgentOpen.png).
+   !IMAGE[AgentOpen.png](./images/instructions273634/AgentOpen.png).
 1. Choose **Use the web app instead**
 <br>
-    !IMAGE [step22.png](/instructions/lab-default/images/instructions273634/step22.png)
+    !IMAGE [step22.png](./images/instructions273634/step22.png)
 1. You’ll see a preview of your agent. Select **Add**
 <br>
-   !IMAGE[AgentAdd.png](/instructions/lab-default/images/instructions273634/AgentAdd.png)
+   !IMAGE[AgentAdd.png](./images/instructions273634/AgentAdd.png)
 24. Your agent is now added and accessible in Microsoft Teams. Test your agent by asking +++What are the specs for the latest Surface laptop?+++ in the prompt input and press Enter
 <br>
-!IMAGE[AgentTeamsTest.png](/instructions/lab-default/images/instructions273634/AgentTeamsTest.png)
+!IMAGE[AgentTeamsTest.png](./images/instructions273634/AgentTeamsTest.png)
 Congratulations! You’ve now built and published an agent to Microsoft Teams!
 
 ===
@@ -123,40 +123,40 @@ Now you'll step through how to build a custom connector that can be used as a pl
 In this example we will work with a custom API that can look up order details and then extend that scenario by adding a method to update the delivery address of a returned order.
 
 1. In your Windows Task bar at the bottom of your VM, select the Visual Studio icon to launch Visual Studio.
-!IMAGE[AgentVS.png](/instructions/lab-default/images/instructions273634/AgentVS.png)
+!IMAGE[AgentVS.png](./images/instructions273634/AgentVS.png)
 1. In the **Open Recent** section on the left hand side, select the **ContosoApiApp file** which is located on the D drive at +++**D:\LabFiles\ContosoApiApp\ContosoApiApp**+++ 
-!IMAGE[AgentsVSOPEN.png](/instructions/lab-default/images/instructions273634/AgentsVSOPEN.png)
+!IMAGE[AgentsVSOPEN.png](./images/instructions273634/AgentsVSOPEN.png)
 ** If you don't see this in the Open recent section, select "Open a project or solution" on the right and browse to the file path mentioned above and select the ContosoApiApp.sln file.
 1. There might be a sign in to Visual Studio pop up, feel free to click **Close** in that screen.
 2. This is the solution we will be building on to create a custom connector for our agent. Before continuing press **Ctrl+ Shift + B** to build the solution
 <br>
-    !IMAGE [step26.jpg](/instructions/lab-default/images/instructions273634/step26.jpg)
+    !IMAGE [step26.jpg](./images/instructions273634/step26.jpg)
 3. While our app is technically set to run in HTTPS we are going to test it locally first Click the arrow next to **https** in the tool bar and select **http**
 
     > [!note] We will switch this back before publishing this to Microsoft Copilot Studio
 
-    !IMAGE [step27.jpg](/instructions/lab-default/images/instructions273634/step27.jpg)
+    !IMAGE [step27.jpg](./images/instructions273634/step27.jpg)
 4. Click the **Run** button to run your application
 <br>
-    !IMAGE [step28.jpg](/instructions/lab-default/images/instructions273634/step28.jpg)
+    !IMAGE [step28.jpg](./images/instructions273634/step28.jpg)
 5. Click **Yes** on the **Trust ASP.NET Core SSL Certificate** dialog
 <br>
-    !IMAGE [step69.jpg](/instructions/lab-default/images/instructions273634/step69.jpg)
+    !IMAGE [step69.jpg](./images/instructions273634/step69.jpg)
 6. Click **Yes** on the security warning dialog to install the certificate
 <br>
-    !IMAGE [step70.jpg](/instructions/lab-default/images/instructions273634/step70.jpg)
+    !IMAGE [step70.jpg](./images/instructions273634/step70.jpg)
 5. Once the application is running it will appear in a new browser window showing the details about the objects and methods you can test.
 <br>
-    !IMAGE [step29.jpg](/instructions/lab-default/images/instructions273634/step29.jpg)
+    !IMAGE [step29.jpg](./images/instructions273634/step29.jpg)
 6. Click the **Get** method and then click the **Try it out** button to test the get method
 <br>
-    !IMAGE [step30.jpg](/instructions/lab-default/images/instructions273634/step30.jpg)
+    !IMAGE [step30.jpg](./images/instructions273634/step30.jpg)
 7. Enter an order number (any number will work) then click the **Execute** button
 <br>
-    !IMAGE [step31.jpg](/instructions/lab-default/images/instructions273634/step31.jpg)
+    !IMAGE [step31.jpg](./images/instructions273634/step31.jpg)
 8. Scroll down to see the response returned from the **GetOrderDetails** method
 <br>
-    !IMAGE [step32.jpg](/instructions/lab-default/images/instructions273634/step32.jpg)
+    !IMAGE [step32.jpg](./images/instructions273634/step32.jpg)
 9. Close the browser window to stop the App running
 
 ===
@@ -167,7 +167,7 @@ Right now our API is setup with a method to get order details. Before we publish
 
 1. Add the following code in the **OrderControl.cs** file after the comment that says **Start Exercise Space**
 <br>
-    !IMAGE [step34.jpg](/instructions/lab-default/images/instructions273634/step34.jpg)
+    !IMAGE [step34.jpg](./images/instructions273634/step34.jpg)
 <br>
     **Code:**
 
@@ -197,22 +197,22 @@ Right now our API is setup with a method to get order details. Before we publish
     ```
  1. Confirm that the final code matches the screenshot below
 <br>
-    !IMAGE [step38.jpg](/instructions/lab-default/images/instructions273634/step38.jpg)
+    !IMAGE [step38.jpg](./images/instructions273634/step38.jpg)
 8. Now let's test our new method before publishing the connector to make sure it works. Run your application locally again by clicking the **run** button
 <br>
-    !IMAGE [step39.jpg](/instructions/lab-default/images/instructions273634/step39.jpg)
+    !IMAGE [step39.jpg](./images/instructions273634/step39.jpg)
 9. There will be a new Post method available in the ContosoApiApp
 <br>
-    !IMAGE [step40.jpg](/instructions/lab-default/images/instructions273634/step40.jpg)
+    !IMAGE [step40.jpg](./images/instructions273634/step40.jpg)
 10. Click the new **Post** method and click **Try it out**
 <br>
-    !IMAGE [step41.jpg](/instructions/lab-default/images/instructions273634/step41.jpg)
+    !IMAGE [step41.jpg](./images/instructions273634/step41.jpg)
 11. Enter the required details and click **Execute** to test
 <br>
-    !IMAGE [step42.jpg](/instructions/lab-default/images/instructions273634/step42.jpg)
+    !IMAGE [step42.jpg](./images/instructions273634/step42.jpg)
 12. Scroll down to see the response and confirm the method is responding as expected
 <br>
-    !IMAGE [step43.jpg](/instructions/lab-default/images/instructions273634/step43.jpg)
+    !IMAGE [step43.jpg](./images/instructions273634/step43.jpg)
 13. Close the browser window to stop the application
 
 ===
@@ -223,10 +223,10 @@ With the connector built and the new post method added it's time to add this to 
 
 1. Before publishing the connector, we need to change the run mode from http back to https, click the arrow next to **http** and select **https**
 <br>
-    !IMAGE [step45.jpg](/instructions/lab-default/images/instructions273634/step45.jpg)
+    !IMAGE [step45.jpg](./images/instructions273634/step45.jpg)
 1. In the solution explorer on the right side, **Right click>Connected Services>Add>Microsoft Power Platform**
 <br>
-    !IMAGE [step46.jpg](/instructions/lab-default/images/instructions273634/step46.jpg)
+    !IMAGE [step46.jpg](./images/instructions273634/step46.jpg)
 1. In the top right of the **Connect to Microsoft Power Platform** dialog click **Sign in>Work, School or personal account** then use your tenant credentials to login to connect to the Power Platform.
 
     **Username:** +++@lab.CloudCredential(CSBatch1).UserPrincipalName+++
@@ -236,30 +236,30 @@ With the connector built and the new post method added it's time to add this to 
         
     **Temporary Access Password:** +++@lab.Variable(TAP)+++
 
-    !IMAGE [step47.jpg](/instructions/lab-default/images/instructions273634/step47.jpg)
+    !IMAGE [step47.jpg](./images/instructions273634/step47.jpg)
 1. Check to make sure the **AI Roadshow (default)** environment is selected and that the **Common Data Services Default Solution** is selected then click the **Plus(+)** button to create a new custom connector
 <br>
-    !IMAGE[AgentsVSConnectService.png](/instructions/lab-default/images/instructions273634/AgentsVSConnectService.png)
+    !IMAGE[AgentsVSConnectService.png](./images/instructions273634/AgentsVSConnectService.png)
 1. Accept the **Power Platform environment**. Update the **Custom connector name** to **Your First and Last Name Plus the word Connector**, for example, Jane Doe Connector. Then click **Create**. It's very important to remember this name as you'll need to reference this in later steps!
 
 
 <br>
-!IMAGE[AgentsVSAddConnector.png](/instructions/lab-default/images/instructions273634/AgentsVSAddConnector.png)
+!IMAGE[AgentsVSAddConnector.png](./images/instructions273634/AgentsVSAddConnector.png)
 1. Next, you're going to create a Dev Tunnel so you can test your Connector. Click the **Plus (+)** button to create a public dev tunnel which will allow you to debug the connector when it's called from our agent
 <br>
-!IMAGE[AgentVSDevTunnel.png](/instructions/lab-default/images/instructions273634/AgentVSDevTunnel.png)
+!IMAGE[AgentVSDevTunnel.png](./images/instructions273634/AgentVSDevTunnel.png)
 1. In the **Name** field, put **Your First and Last Name plus the world DevTunnel** for your Dev tunnel name then click the **Ok** button
 <br>
-    !IMAGE[AgentsVSDevTunnelName.png](/instructions/lab-default/images/instructions273634/AgentsVSDevTunnelName.png)
+    !IMAGE[AgentsVSDevTunnelName.png](./images/instructions273634/AgentsVSDevTunnelName.png)
 1. Click **Next** to see a summary of the changes to be made
 <br>
-    !IMAGE [step52.jpg](/instructions/lab-default/images/instructions273634/step52.jpg)
+    !IMAGE [step52.jpg](./images/instructions273634/step52.jpg)
 1. Click Finish to create the connector
 <br>
-    !IMAGE [image.png](/instructions/lab-default/images/instructions273634/image.png)
+    !IMAGE [image.png](./images/instructions273634/image.png)
 1. Wait for the connector to be created then click **Close**
 <br>
-    !IMAGE [step54.jpg](/instructions/lab-default/images/instructions273634/step54.jpg)
+    !IMAGE [step54.jpg](./images/instructions273634/step54.jpg)
 
 ===
 
@@ -268,95 +268,95 @@ With the connector built and the new post method added it's time to add this to 
 1. Reopen the **Microsoft Edge** window from the start of the lab and click on the Copilot Studio tab
 1. Click on the **Settings** button on the right of the top nav bar
 <br>
-    !IMAGE [step56.jpg](/instructions/lab-default/images/instructions273634/step56.jpg)
+    !IMAGE [step56.jpg](./images/instructions273634/step56.jpg)
 1. Click on **Generative AI** in the left navigation
 <br>
-    !IMAGE[AgentsGenAI.png](/instructions/lab-default/images/instructions273634/AgentsGenAI.png)
+    !IMAGE[AgentsGenAI.png](./images/instructions273634/AgentsGenAI.png)
 1. Confirm that the **Generative** option is selected then click **Save**
 <br>
-    !IMAGE [step58.png](/instructions/lab-default/images/instructions273634/step58.png)
+    !IMAGE [step58.png](./images/instructions273634/step58.png)
 1. Click on **Close (x)** button to close out of settings and get back to your agent
 <br>
-!IMAGE[AgentGenAIClose.png](/instructions/lab-default/images/instructions273634/AgentGenAIClose.png)
+!IMAGE[AgentGenAIClose.png](./images/instructions273634/AgentGenAIClose.png)
 1. Click on the **Actions** option in the top nav
 <br>
     !IMAGE[AgentsActions.png](instructions273634/AgentsActions.png)
 1. Click the **+ Add an action** button to add a new action
 <br>
-    !IMAGE [step61.jpg](/instructions/lab-default/images/instructions273634/step61.jpg)
+    !IMAGE [step61.jpg](./images/instructions273634/step61.jpg)
 1. Enter **the name of your connector from the Visual Studio Connected Service step (your first name last name connector)** in the search field and hit **Enter**
 <br>
-    !IMAGE[AgentConnectorSearch.png](/instructions/lab-default/images/instructions273634/AgentConnectorSearch.png)
+    !IMAGE[AgentConnectorSearch.png](./images/instructions273634/AgentConnectorSearch.png)
 1. You may have to scroll down in the list of connectors to find your results. Once you do, you will see 2 actions returned from your connector. Each of these actions represents one of the methods in the connector that you just published from Visual Studio. 
-!IMAGE[AgentConnectorResults.png](/instructions/lab-default/images/instructions273634/AgentConnectorResults.png)
+!IMAGE[AgentConnectorResults.png](./images/instructions273634/AgentConnectorResults.png)
 
 1. Click **Get Order Details** to begin adding this action to your agent
 <br>
-!IMAGE[AgentGetOrderDetails2.png](/instructions/lab-default/images/instructions273634/AgentGetOrderDetails2.png)
+!IMAGE[AgentGetOrderDetails2.png](./images/instructions273634/AgentGetOrderDetails2.png)
 1. Once the connector has loaded, in the End user authentication dropdown, select **Copilot author authentication** then click **Next**
 <br>
-    !IMAGE[AgentOrderDetailsAuth.png](/instructions/lab-default/images/instructions273634/AgentOrderDetailsAuth.png)
+    !IMAGE[AgentOrderDetailsAuth.png](./images/instructions273634/AgentOrderDetailsAuth.png)
 1. On the Inputs and Outputs screen, click **Next** again.
-!IMAGE[AgentOrderDetailsNext.png](/instructions/lab-default/images/instructions273634/AgentOrderDetailsNext.png)
+!IMAGE[AgentOrderDetailsNext.png](./images/instructions273634/AgentOrderDetailsNext.png)
 1. Click **Finish** to complete adding the Get Order Details plugin action.
 <br>
-    !IMAGE [step66.jpg](/instructions/lab-default/images/instructions273634/step66.jpg)
+    !IMAGE [step66.jpg](./images/instructions273634/step66.jpg)
 1. On the next screen, select **Add Action** to add the other action from our connector.
-!IMAGE[AgentAddSecondAction.png](/instructions/lab-default/images/instructions273634/AgentAddSecondAction.png)
+!IMAGE[AgentAddSecondAction.png](./images/instructions273634/AgentAddSecondAction.png)
 1. Enter **the name of your connector from the Visual Studio Connected Service step (your first name last name connector)** in the search field and hit **Enter**
 <br>
-    !IMAGE[AgentConnectorSearch.png](/instructions/lab-default/images/instructions273634/AgentConnectorSearch.png)
+    !IMAGE[AgentConnectorSearch.png](./images/instructions273634/AgentConnectorSearch.png)
 1. You may have to scroll down in the list of connectors to find your results again. Click **Update Delivery Address** to begin adding this action to your agent
 <br>
-!IMAGE[AgentAddUpdate.png](/instructions/lab-default/images/instructions273634/AgentAddUpdate.png)
+!IMAGE[AgentAddUpdate.png](./images/instructions273634/AgentAddUpdate.png)
 1. Once the connector has loaded, in the End user authentication dropdown, select **Copilot author authentication** then click **Next**
 <br>
-    !IMAGE[ActionUpdateAuth.png](/instructions/lab-default/images/instructions273634/ActionUpdateAuth.png)
+    !IMAGE[ActionUpdateAuth.png](./images/instructions273634/ActionUpdateAuth.png)
 1. On the Inputs and Outputs screen, click **Next** again.
 <br>
-   !IMAGE[UpdateNextInput.png](/instructions/lab-default/images/instructions273634/UpdateNextInput.png)
+   !IMAGE[UpdateNextInput.png](./images/instructions273634/UpdateNextInput.png)
 1. Click **Finish** to complete adding the plugin to the agent
 <br>
-!IMAGE[UpdateFinish.png](/instructions/lab-default/images/instructions273634/UpdateFinish.png)
+!IMAGE[UpdateFinish.png](./images/instructions273634/UpdateFinish.png)
 1. Confirm that you see both the **Get items** and **Update delivery** actions in the list of items on the Actions screen
-!IMAGE[ConfirmActions.png](/instructions/lab-default/images/instructions273634/ConfirmActions.png)
+!IMAGE[ConfirmActions.png](./images/instructions273634/ConfirmActions.png)
 1. Return to Visual Studio and click the **Run** button next to the HTTPS flag to run your application in HTTPS
 <br>
-    !IMAGE [step68.jpg](/instructions/lab-default/images/instructions273634/step68.jpg)
+    !IMAGE [step68.jpg](./images/instructions273634/step68.jpg)
 1. Click **Yes** on the **Microsoft Visual Studio** dialog to trust the IIS Express SSL certificate.
 <br>
-    !IMAGE [step71.jpg](/instructions/lab-default/images/instructions273634/step71.jpg)
+    !IMAGE [step71.jpg](./images/instructions273634/step71.jpg)
 1. Click **Yes** on the final security warning dialog to install the IIS cert
 <br>
-    !IMAGE [step72.jpg](/instructions/lab-default/images/instructions273634/step72.jpg)
+    !IMAGE [step72.jpg](./images/instructions273634/step72.jpg)
 1. Once the application is running a new browser window will open with a warning that you are about to connect to a developer tunnel click **Continue** to open your running application in Microsoft edge
 <br>
-    !IMAGE [step73.jpg](/instructions/lab-default/images/instructions273634/step73.jpg)
+    !IMAGE [step73.jpg](./images/instructions273634/step73.jpg)
 1. With your application running return to Microsoft Copilot Studio in the **Test Copilot** pane click the Map button on the right to open the conversation map console
 <br>
-    !IMAGE [step74.jpg](/instructions/lab-default/images/instructions273634/step74.jpg)
+    !IMAGE [step74.jpg](./images/instructions273634/step74.jpg)
 1. Now you can test your Copilot's new capabilities and see in real time how it is making calls to the plugins you just added. Enter +++What's my order details?+++ and click **send**
 <br>
-    !IMAGE[AgentGetTest.png](/instructions/lab-default/images/instructions273634/AgentGetTest.png)
+    !IMAGE[AgentGetTest.png](./images/instructions273634/AgentGetTest.png)
 1. An **Activity Map** pane should pop up. This is where you can see how your agent is pulling together the actions needed to complete your request. However, as you have not provided an order number to make the call to the service it has formulated a response to ask you for the missing details
 <br>
-    !IMAGE[AgentGetTestConvoMap.png](/instructions/lab-default/images/instructions273634/AgentGetTestConvoMap.png)
+    !IMAGE[AgentGetTestConvoMap.png](./images/instructions273634/AgentGetTestConvoMap.png)
 1. Enter an order number and click **send**
 <br>
-    !IMAGE [step77.jpg](/instructions/lab-default/images/instructions273634/step77.jpg)
+    !IMAGE [step77.jpg](./images/instructions273634/step77.jpg)
 <br>
     You'll see the order number is passed to the actions and the results are returned to your agent
 <br>
-        !IMAGE[AgentGetMapFilled.png](/instructions/lab-default/images/instructions273634/AgentGetMapFilled.png)
+        !IMAGE[AgentGetMapFilled.png](./images/instructions273634/AgentGetMapFilled.png)
 
 1. Click the reset button to start a new test session
 <br>
-    !IMAGE [step79.jpg](/instructions/lab-default/images/instructions273634/step79.jpg)
+    !IMAGE [step79.jpg](./images/instructions273634/step79.jpg)
 1. Enter +++Update my delivery address for order 123456 to 1 Microsoft Way, Redmond 98052 WA+++ and click send
 <br>
-    !IMAGE [update-delivery-address.png](/instructions/lab-default/images/instructions273634/update-delivery-address.png)
+    !IMAGE [update-delivery-address.png](./images/instructions273634/update-delivery-address.png)
 1. This time Copilot Studio will find the right action and it will be smart enough to fill all the address details in the right inputs as shown below
-!IMAGE[AgentFinalTest.png](/instructions/lab-default/images/instructions273634/AgentFinalTest.png)
+!IMAGE[AgentFinalTest.png](./images/instructions273634/AgentFinalTest.png)
 
 Congratulations! That's it! You have successfully created a new agent and extended that using a custom connector! 
 
