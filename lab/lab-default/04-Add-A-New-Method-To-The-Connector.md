@@ -3,9 +3,9 @@
 Right now our API is setup with a method to get order details. Before we publish this as a connector, lets add one more method that can we can use to update the delivery address for an order. This will help us demonstrate how plugin actions in Copilot Studio can be used both to return information and submit information back to our API.
 
 1. Add the following code in the **OrderControl.cs** file after the comment that says **Start Exercise Space**
-<br>
+
     ![step34.jpg](./images/instructions273634/step34.jpg)
-<br>
+
     **Code:**
 
     ```
@@ -32,22 +32,28 @@ Right now our API is setup with a method to get order details. Before we publish
     return orderToUpdate;
     }
     ```
- 1. Confirm that the final code matches the screenshot below
-<br>
+1. Confirm that the final code matches the screenshot below
+
     ![step38.jpg](./images/instructions273634/step38.jpg)
-8. Now let's test our new method before publishing the connector to make sure it works. Run your application locally again by clicking the **run** button
-<br>
+
+1. Now let's test our new method before publishing the connector to make sure it works. Run your application locally again by clicking the **run** button
+
     ![step39.jpg](./images/instructions273634/step39.jpg)
-9. There will be a new Post method available in the ContosoApiApp
-<br>
+
+1. There will be a new Post method available in the ContosoApiApp
+
     ![step40.jpg](./images/instructions273634/step40.jpg)
-10. Click the new **Post** method and click **Try it out**
-<br>
+
+1. Click the new **Post** method and click **Try it out**
+
     ![step41.jpg](./images/instructions273634/step41.jpg)
-11. Enter the required details and click **Execute** to test
-<br>
+
+1. Enter the required details and click **Execute** to test
+
     ![step42.jpg](./images/instructions273634/step42.jpg)
-12. Scroll down to see the response and confirm the method is responding as expected
-<br>
+
+1. Scroll down to see the response and confirm the method is responding as expected
+
     ![step43.jpg](./images/instructions273634/step43.jpg)
-13. Close the browser window to stop the application
+
+1. Close the browser window to stop the application
