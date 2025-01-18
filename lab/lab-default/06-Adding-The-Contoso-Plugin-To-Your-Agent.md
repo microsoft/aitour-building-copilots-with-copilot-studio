@@ -8,7 +8,7 @@
 
 1. Click on **Generative AI** in the left navigation
 
-    ![AgentsGenAI.png](./images/instructions273634/step57.jpg)
+    ![AgentsGenAI.png](./images/generative-ai.png)
 
 1. Confirm that the **Generative** option is selected then click **Save**
 
