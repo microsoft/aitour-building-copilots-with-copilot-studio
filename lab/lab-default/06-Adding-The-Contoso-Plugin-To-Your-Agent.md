@@ -92,7 +92,7 @@
 
 1. An **Activity Map** pane should pop up. This is where you can see how your agent is pulling together the actions needed to complete your request. However, as you have not provided an order number to make the call to the service it has formulated a response to ask you for the missing details
 
-    ![AgentGetTestConvoMap.png](./images/instructions273634/step76.jpg)
+    ![AgentGetTestConvoMap.png](./images/activity-map-get-order-details.png)
 
 1. Enter an order number and click **send**
 
@@ -100,11 +100,11 @@
 
     You'll see the order number is passed to the actions and the results are returned to your agent
 
-    ![AgentGetMapFilled.png](./images/instructions273634/step78.jpg)
+    ![AgentGetMapFilled.png](./images/activity-map-get-order-details-filled.png)
 
 1. Click the reset button to start a new test session
 
-    ![step79.jpg](./images/instructions273634/step79.jpg)
+    ![step79.jpg](./images/refresh-session.png)
 
 1. Enter +++Update my delivery address for order 123456 to 1 Microsoft Way, Redmond 98052 WA+++ and click send
 
@@ -112,7 +112,7 @@
 
 1. This time Copilot Studio will find the right action and it will be smart enough to fill all the address details in the right inputs as shown below
 
-    ![AgentFinalTest.png](./images/instructions273634/step81.jpg)
+    ![AgentFinalTest.png](./images/update-delivery-address-test.png)
 
 Congratulations! That's it! You have successfully created a new agent and extended that using a custom connector! 
 
