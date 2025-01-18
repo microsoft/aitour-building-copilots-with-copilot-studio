@@ -8,7 +8,7 @@
 
 1. Click on **Generative AI** in the left navigation
 
-    ![AgentsGenAI.png](./images/instructions273634/AgentsGenAI.png)
+    ![AgentsGenAI.png](./images/instructions273634/step57.jpg)
 
 1. Confirm that the **Generative** option is selected then click **Save**
 
@@ -16,11 +16,11 @@
 
 1. Click on **Close (x)** button to close out of settings and get back to your agent
 
-    ![AgentGenAIClose.png](./images/instructions273634/AgentGenAIClose.png)
+    ![AgentGenAIClose.png](./images/instructions273634/step59.jpg)
 
 1. Click on the **Actions** option in the top nav
 
-    ![AgentsActions.png](instructions273634/AgentsActions.png)
+    ![AgentsActions.png](./images/instructions273634/step60.jpg)
 
 1. Click the **+ Add an action** button to add a new action
 
@@ -28,15 +28,15 @@
 
 1. Enter **the name of your connector from the Visual Studio Connected Service step (your first name last name connector)** in the search field and hit **Enter**
 
-    ![AgentConnectorSearch.png](./images/instructions273634/AgentConnectorSearch.png)
+    ![AgentConnectorSearch.png](./images/instructions273634/step62.jpg)
 
 1. You may have to scroll down in the list of connectors to find your results. Once you do, you will see 2 actions returned from your connector. Each of these actions represents one of the methods in the connector that you just published from Visual Studio. 
 
-    ![AgentConnectorResults.png](./images/instructions273634/AgentConnectorResults.png)
+    ![AgentConnectorResults.png](./images/instructions273634/step63.jpg)
 
 1. Click **Get Order Details** to begin adding this action to your agent
 
-    ![AgentGetOrderDetails2.png](./images/instructions273634/AgentGetOrderDetails2.png)
+    ![AgentGetOrderDetails2.png](./images/instructions273634/step64.png)
 
 1. Once the connector has loaded, in the End user authentication dropdown, select **Copilot author authentication** then click **Next**
 
