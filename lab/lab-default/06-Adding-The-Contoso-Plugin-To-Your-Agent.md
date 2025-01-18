@@ -30,21 +30,19 @@
 
     ![AgentConnectorSearch.png](./images/instructions273634/step62.jpg)
 
-1. You may have to scroll down in the list of connectors to find your results. Once you do, you will see 2 actions returned from your connector. Each of these actions represents one of the methods in the connector that you just published from Visual Studio. 
-
-    ![AgentConnectorResults.png](./images/instructions273634/step63.jpg)
+    You may have to scroll down in the list of connectors to find your results. Once you do, you will see 2 actions returned from your connector. Each of these actions represents one of the methods in the connector that you just published from Visual Studio. 
 
 1. Click **Get Order Details** to begin adding this action to your agent
 
-    ![AgentGetOrderDetails2.png](./images/instructions273634/step64.png)
+    ![AgentGetOrderDetails2.png](./images/instructions273634/step63.jpg)
 
 1. Once the connector has loaded, in the End user authentication dropdown, select **Copilot author authentication** then click **Next**
 
-    ![AgentOrderDetailsAuth.png](./images/instructions273634/AgentOrderDetailsAuth.png)
+    ![AgentOrderDetailsAuth.png](./images/instructions273634/step64.png)
 
 1. On the Inputs and Outputs screen, click **Next** again.
 
-    ![AgentOrderDetailsNext.png](./images/instructions273634/AgentOrderDetailsNext.png)
+    ![AgentOrderDetailsNext.png](./images/instructions273634/step65.jpg)
 
 1. Click **Finish** to complete adding the Get Order Details plugin action.
 
@@ -52,31 +50,23 @@
 
 1. On the next screen, select **Add Action** to add the other action from our connector.
 
-![AgentAddSecondAction.png](./images/instructions273634/AgentAddSecondAction.png)
+    ![AgentAddSecondAction.png](./images/instructions273634/step67.jpg)
 
 1. Enter **the name of your connector from the Visual Studio Connected Service step (your first name last name connector)** in the search field and hit **Enter**
 
-    ![AgentConnectorSearch.png](./images/instructions273634/AgentConnectorSearch.png)
+    ![AgentConnectorSearch.png](./images/instructions273634/step62.jpg)
 
 1. You may have to scroll down in the list of connectors to find your results again. Click **Update Delivery Address** to begin adding this action to your agent
 
-    ![AgentAddUpdate.png](./images/instructions273634/AgentAddUpdate.png)
-
 1. Once the connector has loaded, in the End user authentication dropdown, select **Copilot author authentication** then click **Next**
 
-    ![ActionUpdateAuth.png](./images/instructions273634/ActionUpdateAuth.png)
-
-1. On the Inputs and Outputs screen, click **Next** again.
-
-    ![UpdateNextInput.png](./images/instructions273634/UpdateNextInput.png)
+1. On the Inputs and Outputs screen, click **Next** again
 
 1. Click **Finish** to complete adding the plugin to the agent
 
-    ![UpdateFinish.png](./images/instructions273634/UpdateFinish.png)
-
 1. Confirm that you see both the **Get items** and **Update delivery** actions in the list of items on the Actions screen
 
-    ![ConfirmActions.png](./images/instructions273634/ConfirmActions.png)
+    ![ConfirmActions.png](./images/instructions273634/step67.jpg)
 
 1. Return to Visual Studio and click the **Run** button next to the HTTPS flag to run your application in HTTPS
 
