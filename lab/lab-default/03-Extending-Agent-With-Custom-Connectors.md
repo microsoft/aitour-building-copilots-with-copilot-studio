@@ -8,11 +8,11 @@ In this example we will work with a custom API that can look up order details an
 
 1. In your Windows Task bar at the bottom of your VM, select the Visual Studio icon to launch Visual Studio.
 
-    ![AgentVS.png](./images/instructions273634/AgentVS.png)
+    ![AgentVS.png](./images/agent-vs.png)
 
 1. In the **Open Recent** section on the left hand side, select the **ContosoApiApp file** which is located on the D drive at +++**D:\LabFiles\ContosoApiApp\ContosoApiApp**+++ 
 
-    ![AgentsVSOPEN.png](./images/instructions273634/AgentsVSOPEN.png)
+    ![AgentsVSOPEN.png](./images/agent-vs-open.png)
 
     ** If you don't see this in the Open recent section, select "Open a project or solution" on the right and browse to the file path mentioned above and select the ContosoApiApp.sln file.
 

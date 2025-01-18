@@ -1,17 +1,17 @@
-# Build your own Copilots with Microsoft Copilot Studio
+# Build and extend agents with Microsoft Copilot Studio
 
-This repo contains the session delivery material for the Build your own Copilots with Microsoft Copilot Studio workshop for AI Tour.
+This repo contains the session delivery material for the Build your own agents with Microsoft Copilot Studio workshop for AI Tour.
 
 ![Workshop Title](/src/AITour_Workshop_Screenshot.png)
 
 ## Session Desciption
 
-This is a 75-minute workshop focused on building and extending a custom copilot with Copilot Studio. This workshop is meant to be hands on with the goal of giving attendees a high-level overview of what Copilot Studio is and what you can do with it. By the end of the workshop, attendees will have built and extended their first copilot in Copilot Studio. 
+This is a 75-minute workshop focused on building and extending agents with Copilot Studio. This workshop is meant to be hands on with the goal of giving attendees a high-level overview of what Copilot Studio is and what you can do with it. By the end of the workshop, attendees will have built and extended their first agent in Copilot Studio. 
 
 ## Learning Outcomes
 - Understanding of Copilot Studio and when to use it
-- Know how to build a copilot connected to knowledge
-- Extend a copilot with actions
+- Know how to build an agent connected to knowledge
+- Extend an agent with actions
 
 ## Technology Used
 - Copilot Studio

@@ -1,6 +1,6 @@
 ## How To Use
 
-The following resources are intended for a presenter to learn and deliver the Build your own Agents with ​
+The following resources are intended for a presenter to learn and deliver the Build and extend agents with ​
 Microsoft Copilot Studio workshop
 
 Prior to delivering the workshop please:
