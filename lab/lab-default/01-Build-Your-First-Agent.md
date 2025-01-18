@@ -45,17 +45,19 @@ To start you're going to build your very first agent powered by Generative answe
 
 1. In the Add available knowledge sources dialog click the **Public websites** button
 
-    ![step11.jpg](./images/instructions273634/step11.jpg)
+    ![step11.jpg](./images/public-websites.png)
 
 1. In the Add public websites dialog enter +++www.microsoft.com+++ then click the **Add** button
 
-1. With the new knowledge source added click the **Add** button in the bottom right of the dialog to include this in your new agent
+    ![Add Microsoft.com as a knowledge source](./images/add-microsoftcom.png)
 
-    ![AgentCreate.png](./images/instructions273634/step12.jpg)
+1. **Select** the confirm checkbox behind the microsoft website and click the **Add** button
+
+    ![Confirm ownership](./images/confirm-website.png)
 
 1. With the dialog closed confirm the name and the knowledge source of your new agent are correct then in the top right click the **Create** button
 
-    ![step14.png](./images/instructions273634/step14.png)
+    ![Create agent](./images/create-agent.png)
 
 1. In the agent test window enter +++What is Microsoft Copilot Studio?+++ and press enter
 
