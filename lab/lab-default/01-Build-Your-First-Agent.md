@@ -51,7 +51,7 @@ To start you're going to build your very first agent powered by Generative answe
 
 1. With the new knowledge source added click the **Add** button in the bottom right of the dialog to include this in your new agent
 
-    ![AgentCreate.png](./images/instructions273634/AgentCreate.png)
+    ![AgentCreate.png](./images/instructions273634/step12.jpg)
 
 1. With the dialog closed confirm the name and the knowledge source of your new agent are correct then in the top right click the **Create** button
 
@@ -61,6 +61,6 @@ To start you're going to build your very first agent powered by Generative answe
 
     > [!note] If you don't see the test your agent pane you can open this by clicking on Test button in the top right corner of the screen to open the test pane
 
-    ![AgentTest.png](./images/instructions273634/AgentTest.png)
+    ![AgentTest.png](./images/instructions273634/step15.jpg)
 
 Congratulations! you just built your first agent powered by generative answers.
