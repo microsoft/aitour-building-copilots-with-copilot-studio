@@ -23,9 +23,13 @@ To start you're going to build your very first agent powered by Generative answe
 
     ![pic2.png](./images/instructions273634/pic2.png)
 
-1. If you see a welcome message as shown in the screenshot below, select Skip.
+1. If you see a welcome message as shown in the screenshot below, select **Skip**.
 
     ![step6.png](./images/instructions273634/step6.png)
+
+1. Change your environment by selecting **AI Roadshow (default)** on the top, and then the developer environment for your user (**User9Dev** if you are User9)
+
+    ![select environment](./images/select-environment.png)
 
 1. In the left nav click **+ Create** button to start creating a new agent
 
