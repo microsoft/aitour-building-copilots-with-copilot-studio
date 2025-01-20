@@ -24,11 +24,9 @@
 
     ![step61.jpg](./images/instructions273634/step61.jpg)
 
-1. Enter **the name of your connector from the Visual Studio Connected Service step (your first name last name connector)** in the search field and hit **Enter**
+1. Enter **Contoso** in the search field and hit **Enter**
 
     ![AgentConnectorSearch.png](./images/search-actions.png)
-
-    You may have to scroll down in the list of connectors to find your results. Once you do, you will see 2 actions returned from your connector. Each of these actions represents one of the methods in the connector that you just published from Visual Studio. 
 
 1. Click **Get Order Details** to begin adding this action to your agent
 
@@ -46,7 +44,7 @@
 
     ![AgentAddSecondAction.png](./images/add-action.png)
 
-1. Enter **the name of your connector from the Visual Studio Connected Service step (your first name last name connector)** in the search field and hit **Enter**
+1. Enter **Contoso** in the search field and hit **Enter**
 
     ![AgentConnectorSearch.png](./images/search-actions.png)
 
