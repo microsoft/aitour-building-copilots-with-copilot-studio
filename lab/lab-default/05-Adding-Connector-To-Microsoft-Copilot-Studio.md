@@ -31,7 +31,7 @@ With the connector built and the new post method added it's time to add this to 
 
 1. Next, you're going to create a Dev Tunnel so you can test your Connector. Click the **Plus (+)** button to create a public dev tunnel which will allow you to debug the connector when it's called from our agent
 
-    ![AgentVSDevTunnel.png](./images/instructions273634/step50.jpg)
+    ![AgentVSDevTunnel.png](./images/create-dev-tunnel-default.png)
 
 1. In the **Name** field, put **Your First and Last Name plus the world DevTunnel** for your Dev tunnel name (for instance JaneDoeDevTunnel) then click the **Ok** button
 
