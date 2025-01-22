@@ -21,25 +21,25 @@ With the connector built and the new post method added it's time to add this to 
 
     ![step47.jpg](./images/instructions273634/step47.jpg)
 
-1. Check to make sure the your developer environment (**User9Dev** if your user is User9) is selected and that the **Common Data Services Default Solution** is selected then click the **Plus(+)** button to create a new custom connector
+1. Check to make sure the your developer environment (**User251Dev** if your user is User251) is selected and that the **Common Data Services Default Solution** is selected then click the **Plus(+)** button to create a new custom connector
 
-    ![AgentsVSConnectService.png](./images/instructions273634/step48.jpg)
+    ![AgentsVSConnectService.png](./images/add-connector-dev.png)
 
 1. Leave the custom connector name the same, and click **Create**.
 
-    ![AgentsVSAddConnector.png](./images/instructions273634/step49.jpg)
+    ![AgentsVSAddConnector.png](./images/create-connector.png)
 
 1. Next, you're going to create a Dev Tunnel so you can test your Connector. Click the **Plus (+)** button to create a public dev tunnel which will allow you to debug the connector when it's called from our agent
 
-    ![AgentVSDevTunnel.png](./images/instructions273634/step50.jpg)
+    ![AgentVSDevTunnel.png](./images/create-dev-tunnel-dev.png)
 
 1. In the **Name** field, put **MyDevTunnel** for your Dev tunnel name then click the **Ok** button
 
-    ![AgentsVSDevTunnelName.png](./images/instructions273634/step51.jpg)
+    ![AgentsVSDevTunnelName.png](./images/mydevtunneldev.png)
 
 1. Click **Next** to see a summary of the changes to be made
 
-    ![step52.jpg](./images/instructions273634/step52.jpg)
+    ![step52.jpg](./images/connected-service-dev-next.png)
 
 1. Click Finish to create the connector
 

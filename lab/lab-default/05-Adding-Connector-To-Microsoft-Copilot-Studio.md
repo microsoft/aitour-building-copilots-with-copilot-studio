@@ -23,9 +23,9 @@ With the connector built and the new post method added it's time to add this to 
 
 1. Check to make sure the **AI Roadshow (default)** environment is selected and that the **Common Data Services Default Solution** is selected then click the **Plus(+)** button to create a new custom connector
 
-    ![AgentsVSConnectService.png](./images/instructions273634/step48.jpg)
+    ![AgentsVSConnectService.png](./images/add-connector-default.png)
 
-1. Accept the **Power Platform environment**. Update the **Custom connector name** to **Your First and Last Name Plus the word Connector**, for example, Jane Doe Connector. Then click **Create**. It's very important to remember this name as you'll need to reference this in later steps!
+1. Accept the **Power Platform environment**. Update the **Custom connector name** to **Your First and Last Name Plus -Connector** without any spaces, for example, JaneDoe-Connector. Then click **Create**. It's very important to remember this name as you'll need to reference this in later steps!
 
     ![AgentsVSAddConnector.png](./images/instructions273634/step49.jpg)
 

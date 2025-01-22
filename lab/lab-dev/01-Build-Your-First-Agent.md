@@ -27,7 +27,7 @@ To start you're going to build your very first agent powered by Generative answe
 
     ![step6.png](./images/instructions273634/step6.png)
 
-1. Change your environment by selecting **AI Roadshow (default)** on the top, and then the developer environment for your user (**User9Dev** if you are User9)
+1. Change your environment by selecting **AI Roadshow (default)** on the top, and then the developer environment for your user (**User251Dev** if you are User251)
 
     ![select environment](./images/select-environment.png)
 
