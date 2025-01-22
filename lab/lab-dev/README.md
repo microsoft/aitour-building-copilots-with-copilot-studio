@@ -11,23 +11,23 @@ The green text with the +++icon+++ can be clicked on and will be typed automatic
 
 ===
 
-!INSTRUCTIONS [1 - Build Your First Agent](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-default/01-Build-Your-First-Agent.md)
+!INSTRUCTIONS [1 - Build Your First Agent](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-dev/01-Build-Your-First-Agent.md)
 
 ===
 
-!INSTRUCTIONS [2 - Publishing Your Agent](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-default/02-Publishing-Your-Agent.md)
+!INSTRUCTIONS [2 - Publishing Your Agent](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-dev/02-Publishing-Your-Agent.md)
 
 ===
 
-!INSTRUCTIONS [3 - Extending Agent With Custom Connectors](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-default/03-Extending-Agent-With-Custom-Connectors.md)
+!INSTRUCTIONS [3 - Extending Agent With Custom Connectors](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-dev/03-Extending-Agent-With-Custom-Connectors.md)
 
 ===
 
-!INSTRUCTIONS [4 - Add a New Method To The Connector](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-default/04-Add-A-New-Method-To-The-Connector.md)
+!INSTRUCTIONS [4 - Add a New Method To The Connector](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-dev/04-Add-A-New-Method-To-The-Connector.md)
 
 ===
 
-!INSTRUCTIONS [5 - Adding Connector To Microsoft Copilot Studio](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-default/05-Adding-Connector-To-Microsoft-Copilot-Studio.md)
+!INSTRUCTIONS [5 - Adding Connector To Microsoft Copilot Studio](https://raw.githubusercontent.com/microsoft/aitour-building-copilots-with-copilot-studio/refs/heads/main/lab/lab-dev/05-Adding-Connector-To-Microsoft-Copilot-Studio.md)
 
 ===
 
