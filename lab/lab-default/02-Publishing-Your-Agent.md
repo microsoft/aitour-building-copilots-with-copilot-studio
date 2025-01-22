@@ -28,7 +28,7 @@ Now that you have confirmed your agent is working as expected let’s publish th
 
 1. After Teams is turned on, you’ll get a message letting you know the channel was added. Select **Open agent** to add your new agent to Teams
 
-    ![AgentOpen.png](./images/instructions273634/step20.png).
+    ![AgentOpen.png](./images/instructions273634/step21.png).
 
 1. Choose **Use the web app instead**
 
@@ -38,7 +38,11 @@ Now that you have confirmed your agent is working as expected let’s publish th
 
     ![AgentAdd.png](./images/instructions273634/step23.png)
 
-1. Your agent is now added and accessible in Microsoft Teams. Test your agent by asking +++What are the specs for the latest Surface laptop?+++ in the prompt input and press Enter
+1. You’ll see a message that your agent was added successfully. Select **Open** to open your agent in Teams.
+
+    ![AgentOpen.png](./images/OpenAgentTeams2.png)
+
+1. Test your agent by asking +++What are the specs for the latest Surface laptop?+++ in the prompt input and press Enter
 
     ![AgentTeamsTest.png](./images/instructions273634/step24.png)
 

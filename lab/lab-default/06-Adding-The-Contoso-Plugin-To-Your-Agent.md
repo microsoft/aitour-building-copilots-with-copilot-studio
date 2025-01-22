@@ -106,7 +106,7 @@
 
     ![step79.jpg](./images/refresh-session.png)
 
-1. Enter +++Update my delivery address for order 123456 to 1 Microsoft Way, Redmond 98052 WA+++ and click send
+1. Enter +++Update my delivery address for order 123456 to 2 Microsoft Way, Redmond 98052 WA+++ and click send
 
     ![update-delivery-address.png](./images/instructions273634/update-delivery-address.png)
 

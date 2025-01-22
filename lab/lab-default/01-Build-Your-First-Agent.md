@@ -19,7 +19,7 @@ To start you're going to build your very first agent powered by Generative answe
 
     ![pic1_official.png](./images/instructions273634/pic1_official.png) -->
 
-1. If you see a welcome screen like is shown below, select the country/region that you’re in from the dropdown and select Get Started
+1. If you see a welcome screen as shown below, select the country/region that you’re in from the dropdown and select Get Started
 
     ![pic2.png](./images/instructions273634/pic2.png)
 
