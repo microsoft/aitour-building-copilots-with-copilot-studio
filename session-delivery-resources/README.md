@@ -17,7 +17,7 @@ Prior to delivering the workshop please:
 | Session Delivery Deck     |  [Deck](https://aka.ms/AArx61l) | The session delivery slides |
 | Session Delivery Video           | [Video](https://aka.ms/AArxle5) | Recorded video explaining how to deliver this session | 
 | Session Delivery Guide             |  [Guide](https://aka.ms/AArxdq6) | Guide explaining how to deliver this session with demo setup and talk track.  | 
-| Lab Instructions             |  [Lab instructions](/instructions/) | Step by step instructions for the labs for proctors and presenters to run through | 
+| Lab Instructions             |  [Lab instructions](../lab/) | Step by step instructions for the labs for proctors and presenters to run through | 
 
 ## Get Started
 
