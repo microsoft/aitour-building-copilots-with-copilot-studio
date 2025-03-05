@@ -18,15 +18,15 @@ Now that you have confirmed your agent is working as expected, let’s publish i
 
     ![AgentChannels.png](./images/instructions273634/step18.png)
 
-1. Under the list of channels, select **Microsoft Teams**
+1. Under the list of channels, select **Microsoft Teams + Microsoft 365**
 
     ![AgentChannelsTeams.png](./images/instructions273634/step19.png)
 
-1. In the panel that opens on the right-hand side, select **Turn on Teams**
+1. In the panel that opens on the right-hand side, select **Add channel**
 
     ![step20.png](./images/instructions273634/step20.png)
 
-1. After Teams is turned on, you’ll get a message letting you know the channel was added. Select **Open agent** to add your new agent to Teams
+1. After the channel is added, you’ll get a message letting you know the channel was added. Select **See agent in Teams** to see your new agent in Teams
 
     ![AgentOpen.png](./images/instructions273634/step21.png).
 
