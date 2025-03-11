@@ -18,7 +18,7 @@ Now that you have confirmed your agent is working as expected, let’s publish i
 
     ![AgentChannels.png](./images/instructions273634/step18.png)
 
-1. Under the list of channels, select **Microsoft Teams + Microsoft 365**
+1. Under the list of channels, select **Teams + Microsoft 365**
 
     ![AgentChannelsTeams.png](./images/instructions273634/step19.png)
 
