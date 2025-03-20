@@ -33,7 +33,7 @@ With the connector built and the new post method added it's time to add this to 
 
     ![AgentVSDevTunnel.png](./images/create-dev-tunnel-dev.png)
 
-1. In the **Name** field, put **MyDevTunnel** for your Dev tunnel name then click the **Ok** button
+1. In the **Name** field, put +++MyDevTunnel+++ for your Dev tunnel name then click the **Ok** button
 
     ![AgentsVSDevTunnelName.png](./images/mydevtunneldev.png)
 
